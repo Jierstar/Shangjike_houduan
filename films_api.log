@@ -1,0 +1,205 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 17:06:12] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 17:06:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:25:36] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:26:12] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:30:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:31:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\tests\\filmtests.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:34:27] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:35:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:41:17] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:43:43] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:44:41] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:45:54] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:49:48] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:49:49] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:50:05] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:50:07] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:50:48] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:50:51] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:52:04] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:52:04] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:52:04] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:52:05] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:52:05] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:52:32] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:53:03] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:53:14] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:53:56] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:54:09] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:54:54] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:55:52] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:56:12] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 18:57:23] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 19:01:49] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 19:07:48] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 19:10:01] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\routes\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\tests\\filmtests.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\tests\\filmtests.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\tests\\filmtests.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\tests\\filmtests.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\tests\\filmtests.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 689-612-912
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 23:12:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 23:12:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
