@@ -2,8 +2,6 @@ from app import db
 from statistics import mean
 
 
-
-
 class FilmInfo(db.Model):
     __tablename__ = 'film'
     id = db.Column(db.Integer, primary_key=True)
@@ -41,18 +39,17 @@ class FilmInfo(db.Model):
     @staticmethod
     def count_by_year():
         ret = {}
-        years = db.session.query(FilmInfo.year.distinct()).all()
+        years = db.session.query(FilmInfo.year.distinct()).order_by(FilmInfo.year).all()
         for year in years:
             res = db.session.query(FilmInfo).filter(FilmInfo.year == year[0]).all()
             ret[year[0]] = len(res)
-
         return ret
 
     # 分别按年统计中国大陆、中国香港、中国台湾每年电影的平均得分
     @staticmethod
     def avg_rate_by_region():
         hk, cn, tw = {}, {}, {}
-        years = db.session.query(FilmInfo.year.distinct()).all()
+        years = db.session.query(FilmInfo.year.distinct()).order_by(FilmInfo.year).all()
         for year in years:
             hkRate = db.session.query(FilmInfo).filter(FilmInfo.year == year[0]).filter(FilmInfo.is_hk == 1).all()
             cnRate = db.session.query(FilmInfo).filter(FilmInfo.year == year[0]).filter(FilmInfo.is_cn == 1).all()
@@ -68,3 +65,36 @@ class FilmInfo(db.Model):
             ret = {"hk": hk, "cn": cn, "tw": tw}
 
         return ret
+
+    @staticmethod
+    def count_by_region():
+        hk, cn, tw = {}, {}, {}
+        years = db.session.query(FilmInfo.year.distinct()).order_by(FilmInfo.year).all()
+        for year in years:
+            hkCount = db.session.query(FilmInfo).filter(FilmInfo.year == year[0]).filter(FilmInfo.is_hk == 1).all()
+            cnCount = db.session.query(FilmInfo).filter(FilmInfo.year == year[0]).filter(FilmInfo.is_cn == 1).all()
+            twCount = db.session.query(FilmInfo).filter(FilmInfo.year == year[0]).filter(FilmInfo.is_tw == 1).all()
+
+            hk[year[0]] = len(hkCount)
+            cn[year[0]] = len(cnCount)
+            tw[year[0]] = len(twCount)
+            ret = {"hk": hk, "cn": cn, "tw": tw}
+        return ret
+
+    @staticmethod
+    def count_by_type():
+        ret = {}
+        queryTypes = db.session.query(FilmInfo.type.distinct()).all()
+        types = []
+        for itemTypes in queryTypes:
+            for aType in eval(itemTypes[0]):
+                types.append(aType)
+        types = list(set(types))
+        for aType in types:
+            res = db.session.query(FilmInfo).filter(FilmInfo.type.like('%'+aType+'%')).all()
+            ret[aType] = len(res)
+
+        # keys = sorted(ret,)
+
+        return ret
+

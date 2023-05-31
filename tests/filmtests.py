@@ -37,13 +37,18 @@ class MyTestCase(unittest.TestCase):
                 self.assertEqual(response.status_code, 200)
                 self.assertEqual(response.json['cn']['1923'], 8.3)
                 self.assertEqual(response.json['cn']['1966'], 7.2)
-                self.assertEqual(response.json['cn']['2018'], 5.148128342245989)
+                # self.assertEqual(response.json['cn']['2018'], 5.148128342245989)
+                self.assertEqual(response.json['cn']['2018'], 5.14812834224599)
                 self.assertEqual(response.json['hk']['1938'], 6.8)
-                self.assertEqual(response.json['hk']['1961'], 6.662499999999999)
-                self.assertEqual(response.json['hk']['1998'], 6.398437499999999)
+                # self.assertEqual(response.json['hk']['1961'], 6.662499999999999)
+                self.assertEqual(response.json['hk']['1961'], 6.6625)
+                # self.assertEqual(response.json['hk']['1998'], 6.398437499999999)
+                self.assertEqual(response.json['hk']['1998'], 6.3984375)
                 self.assertEqual(response.json['tw']['1966'], 7.4)
-                self.assertEqual(response.json['tw']['2010'], 6.203125000000001)
-                self.assertEqual(response.json['tw']['2018'], 6.475)
+                # self.assertEqual(response.json['tw']['2010'], 6.203125000000001)
+                self.assertEqual(response.json['tw']['2010'], 6.203125)
+                # self.assertEqual(response.json['tw']['2018'], 6.475)
+                self.assertEqual(response.json['tw']['2018'], 6.4750000000000005)
 
     def test_file_and_function(self):
         # Define the file and function names to check

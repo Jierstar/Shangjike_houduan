@@ -1,6 +1,9 @@
 from app import app
 from models.films import FilmInfo
 from flask import jsonify
+from flask_cors import CORS
+
+CORS(app)
 
 
 @app.route('/', methods=['GET'])
@@ -32,5 +35,25 @@ def avg_rate_by_region():
         return jsonify({"error": str(e)})
 
 
+@app.route('/count_by_region', methods=['GET'])
+def count_by_region():
+    try:
+        res = FilmInfo.count_by_region()
+        return jsonify(res)
+    except Exception as e:
+        return jsonify({'error': str(e)})
+
+
+@app.route('/count_by_type', methods=['GET'])
+def count_by_type():
+    try:
+        res = FilmInfo.count_by_type()
+        return jsonify(res)
+    except Exception as e:
+        return jsonify({'error': str(e)})
+
+
 if __name__ == '__main__':
+    # Json中的中文显示为unicode
+    app.config['JSON_AS_ASCII'] = False
     app.run(debug=True)

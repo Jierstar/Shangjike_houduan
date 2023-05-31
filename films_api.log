@@ -203,3 +203,663 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 689-612-912
 INFO:werkzeug:127.0.0.1 - - [17/May/2023 23:12:50] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [17/May/2023 23:12:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 14:59:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 14:59:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 15:03:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 16:49:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 16:49:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 16:51:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 16:51:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:03:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:05:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:06:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:06:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:06:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:07:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:07:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:07:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:11:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:22:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:26:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:26:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:27:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:46:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:46:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:46:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:48:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2023 17:48:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 18:19:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 18:19:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 18:20:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 18:20:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 18:54:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 18:54:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:07:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:07:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:07:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:08:04] "[33mGET /count_by_year) HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:08:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:08:06] "[33mGET /count_by_year) HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:08:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:08:11] "[33mGET /count_by_year) HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:08:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:08:14] "[33mGET /count_by_year) HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:08:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:09:26] "[33mGET /count_by_year) HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:09:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:07:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:07:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:17:46] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:21:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:25:54] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:27:01] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:28:58] "[33mGET /count_by_year) HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:28:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:29:09] "[33mGET /count_by_year) HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:29:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:30:35] "[33mGET /count_by_year) HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:30:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:30:49] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:31:12] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:31:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:31:45] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:35:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:35:35] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:35:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:35:46] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:49:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:49:14] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:56:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:56:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:56:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:56:58] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:57:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:57:53] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:57:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:57:55] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:59:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:59:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:59:38] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 15:59:39] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:06:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:06:44] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:07:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:07:12] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:22:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:22:05] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:22:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:22:11] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:23:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:23:02] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:23:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:23:08] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:23:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:23:58] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:24:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:24:09] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:50:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2023 16:50:42] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:09:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:09:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:11:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:11:56] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:14] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:13:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:13:09] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:14:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:14:17] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:19:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:19:04] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:27:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:27:25] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:27:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:27:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:27:51] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:27:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:27:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:27:55] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:30:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:30:19] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:30:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:30:32] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:31:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:31:11] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:33:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:33:27] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:38:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:38:28] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:48:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:48:20] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:55:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:55:50] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:55:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 16:56:00] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:41:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:41:35] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:43:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:43:21] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:46:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:46:23] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:46:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:46:30] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:48:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:48:27] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:48:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:48:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:48:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 15:48:35] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 16:55:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 16:55:43] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 16:56:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 16:56:03] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 16:56:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 16:56:59] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 16:57:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2023 16:57:23] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 16:31:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 16:31:59] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 16:33:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 16:33:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\routes\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:38:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:38:28] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:38:41] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:38:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:40:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:40:37] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:40:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:40:55] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:40:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:40:59] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:43:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:43:31] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:48:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:48:35] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:48:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:48:39] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:48:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:48:46] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:54:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:54:21] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:54:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:54:44] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:58:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:58:12] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 17:58:15] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 18:21:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 18:21:46] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 18:21:49] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:04:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:04:32] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:04:35] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:05:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:05:26] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:05:29] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:05:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:05:38] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:05:41] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:09:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:09:10] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:09:13] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:09:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:09:43] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:09:47] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:10:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:10:57] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:11:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:11:02] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:11:03] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:11:06] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:11:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:11:32] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:11:35] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:12:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:12:10] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:12:13] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:21:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:21:33] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:21:36] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:27:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:27:42] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:27:45] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:30:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:30:25] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:30:29] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:31:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:31:36] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:31:39] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:36:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:36:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:36:55] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:39:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:39:46] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:39:50] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:40:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:40:08] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:40:11] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:45:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:45:21] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:45:24] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:55:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:55:22] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:55:25] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:57:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:57:11] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:57:14] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:58:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:58:15] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 19:58:19] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 20:01:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 20:01:58] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 20:02:01] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 23:51:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 23:51:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 23:51:56] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 23:52:22] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 12:36:02] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 12:36:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 12:37:14] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:29:54] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:13] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:17] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:17] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:18] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:20] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 13:30:20] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:01:58] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:07:23] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:08:43] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:09:25] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:09:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:09:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:15:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:15:41] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:15:44] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:16:28] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:16:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:17:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:17:39] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:17:42] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:19:08] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:20:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:20:20] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:20:23] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:24:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:24:15] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:24:19] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:36:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:36:37] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:36:39] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:36:41] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:36:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:36:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:36:55] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:36:55] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:38:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:38:37] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:38:40] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:38:41] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:41:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:41:17] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:41:21] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:41:21] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:51:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:51:23] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:51:26] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 15:51:26] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:05:04] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:05:25] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:15:47] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:15:58] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:19:14] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:20:03] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:20:19] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:21:09] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:21:29] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:22:41] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:23:44] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:23:47] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:25:30] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:32:31] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:32:59] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:36:29] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:36:34] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 16:54:30] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:08:14] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:19:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:19:23] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:19:27] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:19:27] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:19:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:19:37] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:19:40] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:19:40] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:29:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:29:37] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:29:37] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:29:40] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:29:40] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:27] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:27] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:31] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:31] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:50] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:50] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:53] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:30:53] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:31:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:31:10] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:31:11] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:31:14] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:31:14] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:37:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:37:33] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:37:34] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:37:37] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:37:37] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:37:38] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:37:55] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:38:24] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:38:34] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:41:27] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:41:48] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:47:21] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:47:35] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:47:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:47:52] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:47:52] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:47:55] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:47:55] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:49:32] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:50:40] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:56:28] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:56:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:56:36] "GET /count_by_year HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:56:36] "GET /count_by_type HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:56:39] "GET /count_by_region HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 17:56:39] "GET /avg_rate_by_region HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\debug.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
+INFO:werkzeug: * Detected change in 'F:\\shangjike\\models\\films.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-077-244
